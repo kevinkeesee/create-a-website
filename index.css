@@ -52,13 +52,14 @@ img{
 
 a{
     color: white;
+    text-decoration: none;
 }
 
 .link{
     margin-top: 18px;
     color: white;
     font-size: 25px;
-    text-decoration: none;
+
     padding-left: 2vmax;
 }
 
@@ -76,6 +77,10 @@ li{
     font-size: 1vmax;
     padding: 5px;
     margin-left: 20px;
+}
+
+iframe{
+    padding: 20px;
 }
 
 @keyframes fadein{
